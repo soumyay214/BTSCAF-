@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="C:\Users\Somya\Downloads\BTS CAFÉ.html" />
+<img width="1200" height="475" src="C:\Users\Somya\Downloads\BTS CAFÉ.html" />
 </div>
 <p>
    # ☕ BTS CAFÉ
