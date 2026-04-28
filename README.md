@@ -141,7 +141,7 @@ npm run dev
 ## 👨‍💻 Author
 
 **Soumya Yadav**
-GitHub: https://github.com/your-username
+GitHub:https://github.com/soumyay214
 
 ---
 
