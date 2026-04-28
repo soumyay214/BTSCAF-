@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src=""C:\Users\Somya\Pictures\Screenshots\Screenshot 2026-04-28 102052.png"" />
+<img width="1200" height="475" alt="GHBanner" src="C:\Users\Somya\Pictures\Screenshots\Screenshot 2026-04-28 102052.png" />
 <p>
   # ☕ BTS CAFÉ
 
