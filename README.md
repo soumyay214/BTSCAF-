@@ -126,11 +126,11 @@ npm run dev
 
 ### 🏠 Home Page
 
-![Home]("C:\Users\Somya\Pictures\Screenshots\Screenshot 2026-04-28 102052.png")
+![Home](img "C:\Users\Somya\Pictures\Screenshots\Screenshot 2026-04-28 102052.png")
 
 ### 🍽️ ARMY Menu
 
-![Menu]("C:\Users\Somya\Pictures\Screenshots\Screenshot 2026-04-28 102128.png")
+![Menu]( img "C:\Users\Somya\Pictures\Screenshots\Screenshot 2026-04-28 102128.png")
 
 ---
 
