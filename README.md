@@ -2,9 +2,6 @@
 
 <img width="1200" height="475" src="C:\Users\Somya\Pictures\Screenshots\Screenshot 2026-04-28 102052.png" />
 <p>
-  # ☕ BTS CAFÉ
-
-![BTS Café Banner]("C:\Users\Somya\Pictures\Screenshots\Screenshot 2026-04-28 102052.png")
 
 🚀 **BTS CAFÉ** is a modern, full-stack café web application with a premium UI, seamless user experience, and scalable architecture.
 
