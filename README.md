@@ -118,19 +118,6 @@ git clone https://github.com/soumyay214/bts-cafe.git
 cd bts-cafe/client
 npm install
 npm run dev
-```
-
----
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-![Home](img "C:\Users\Somya\Pictures\Screenshots\Screenshot 2026-04-28 102052.png")
-
-### 🍽️ ARMY Menu
-
-![Menu]( img "C:\Users\Somya\Pictures\Screenshots\Screenshot 2026-04-28 102128.png")
 
 ---
 
