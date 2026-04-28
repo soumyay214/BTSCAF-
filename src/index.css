@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-family-body, "Inter", ui-sans-serif, system-ui, sans-serif);
+  --font-display: "Playfair Display", serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-bts-purple: var(--primary-color, #6d28d9);
+  --color-bts-purple-dark: var(--primary-color-dark, #4c1d95);
+  --color-bts-cream: #FAF9F6;
+  --color-bts-black: #1A1A1A;
+  --color-bts-gray: #F3F4F6;
+  --color-bts-gold: var(--accent-color, #fbbf24);
+  --color-bts-gold-light: var(--accent-color-light, #fef3c7);
+}
+
+:root {
+  --primary-color: #6d28d9;
+  --primary-color-dark: #4c1d95;
+  --accent-color: #fbbf24;
+  --accent-color-light: #fef3c7;
+  --font-family-body: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-bts-cream text-bts-black font-sans antialiased relative min-h-screen transition-all duration-300;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply bg-white/60 backdrop-blur-xl border border-white/40 shadow-sm;
+  }
+
+  .card-hover {
+    @apply transition-all duration-300 hover:-translate-y-1 hover:shadow-xl hover:shadow-bts-purple/20;
+  }
+}
+
+.jk-gradient {
+  background: linear-gradient(135deg, #1A1A1A 0%, #A855F7 100%);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #A855F7 0%, #1A1A1A 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
