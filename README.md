@@ -116,7 +116,7 @@ bts-cafe/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/bts-cafe.git
+git clone  https://github.com/soumyay214/bts-cafe.git
 cd bts-cafe/client
 npm install
 npm run dev
